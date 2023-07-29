@@ -1,5 +1,5 @@
 var LANGUAGES = {
-    "_": { defaultLanguage: "en", defaultVOLanguage: "ja", defaultSpeed: 20, defaultRandmo: "off" },
+    "_": { defaultLanguage: "vi", defaultVOLanguage: "ja", defaultSpeed: 20, defaultRandmo: "off" },
     "ja": {
         audioList: [
             "audio/ja/kuruto.mp3",
